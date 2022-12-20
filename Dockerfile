@@ -1,4 +1,4 @@
-FROM heroku/heroku:18
+FROM ubuntu:20.04
 
 RUN \
   sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
