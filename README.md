@@ -1,4 +1,4 @@
-# Ubuntu in Heroku
+# Ubuntu 20.04 in Heroku
 
 ▶️🐳 This is a guide on how to use Ubuntu on Heroku.
 
